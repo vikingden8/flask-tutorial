@@ -1,6 +1,7 @@
 import os
 
-from library._01_simple import app
+# from library._01_simple import app
+from library._02_html_inside_view import app
 
 
 if __name__ == "__main__":
